@@ -6,7 +6,7 @@ Stunning is a #multi-device bot WhatsApp store by zeeoneofc. I am not the owner 
 </p>
 <div align="center">
 <details>
-<summary>🥟Support creator!</summary>
+<summary>🥟Support creator!</summary><br>
   
 <img src="https://telegra.ph/file/447be9e64d95c825f692b.jpg"/>
  
