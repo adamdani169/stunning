@@ -34,7 +34,7 @@ after running it you need to scan the qr
 
 ### Information
 - Change [ownerNumber](https://github.com/adamdani169/stunning/blob/main/owner-dan-menu.js)
-
+- Change [image](https://github.com/adamdani169/stunning/tree/main/image)
 ---
 
 ## Features
