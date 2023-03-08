@@ -1,11 +1,11 @@
 const fs = require('fs')
 
 global.namabot = "Bot Store"
-global.namaowner = "Zeeoneofc"
+global.namaowner = "dnm"
 global.footer_text = "© " + namabot
 global.pp_bot = fs.readFileSync("./image/foto.jpg")
 global.qris = fs.readFileSync("./image/qris.jpg")
-global.owner = ['62887435047326','6282193115723']
+global.owner = ['6285156057360']
 global.sessionName = 'session'
 global.prefa = ['-_-']
 global.caption_pay = `Qris All Pay
