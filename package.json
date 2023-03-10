@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node index.js"
+    "start": "node . --db 'mongodb+srv://dnm:su4wN1ehVo2TArTG@cluster0.qjkyft9.mongodb.net/?retryWrites=true&w=majority'"
   },
   "author": "Zeeoneofc",
   "license": "MIT",
