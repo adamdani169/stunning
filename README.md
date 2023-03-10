@@ -19,8 +19,8 @@ THANKS BANG [ZEEONEOFC](https://github.com/zeeoneofficial) ATAS SCRIPT NYA
 Clone this project
 
 ```bash
-> git clone https://github.com/pakforlay/whatsapp-botz.git
-> cd whatsapp-bot
+> git clone https://github.com/adamdani169/stunning
+> cd stunning 
 ```
 
 ### Usage
